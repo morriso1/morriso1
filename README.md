@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a research scientist interested in bioinformatics, bioimage analysis and data science.
 <!--
 **morriso1/morriso1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
