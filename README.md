@@ -4,7 +4,7 @@ I am a research scientist interested in bioinformatics, bioimage analysis and da
 
 I recently developed:
 1) [clonedetective](https://morriso1.github.io/clonedetective/) - a python library for automated cell lineage analysis.
-2) [ratioimage](https://morriso1.github.io/ratioimage/) -  python library for the analysis and visualization of ratiometric imaging data.
+2) [ratioimage](https://morriso1.github.io/ratioimage/) - a python library for the quantification of ratiometric imaging data.
 <!--
 **morriso1/morriso1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
