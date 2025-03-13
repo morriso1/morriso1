@@ -2,7 +2,7 @@
 
 I am a research scientist interested in bioinformatics, bioimage analysis and data science.
 
-I recently developed:
+I previously developed:
 1) [clonedetective](https://morriso1.github.io/clonedetective/) - a python library for automated cell lineage analysis.
 2) [ratioimage](https://morriso1.github.io/ratioimage/) - a python library for the quantification of ratiometric imaging data.
 <!--
